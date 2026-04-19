@@ -1,0 +1,27 @@
+Invoice Catcher End-User License Agreement (EULA)
+Copyright (c) [Your Name or Company]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software in its compiled, executable form only, subject to the following
+restrictions:
+
+1. The Software is provided for personal or commercial use without charge.
+
+2. You may NOT:
+   a) Decompile, reverse engineer, disassemble, or otherwise attempt to
+      obtain the source code of the Software.
+   b) Modify, adapt, translate, or create derivative works based on the
+      Software.
+   c) Rent, lease, sublicense, sell, or distribute the Software to third
+      parties without explicit written permission.
+   d) Remove or alter any copyright, trademark, or other proprietary notices.
+
+3. The Software is provided "AS IS", without warranty of any kind, express or
+   implied. In no event shall the author be liable for any claim, damages, or
+   other liability arising from the use of the Software.
+
+4. This license does not grant you any rights to the source code, which
+   remains the exclusive property of the author.
+
+By using the Software, you agree to be bound by the terms of this license.
